@@ -253,9 +253,6 @@ Contributions are welcome. You can improve the project by:
 4. Adding angle and trajectory calculations
 5. Building a polished video overlay interface
 
-## 📜 License
-
-Add a license file when you publish this project. Until then, treat the repository and trained weights as project-specific assets.
 
 ---
 
