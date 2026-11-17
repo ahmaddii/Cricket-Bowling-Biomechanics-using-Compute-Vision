@@ -1,0 +1,9 @@
+path: /home/malikahmadrasheed/100-days-of-ml/dataset
+train: train/images
+val: val/images
+
+kpt_shape: [3, 3]
+flip_idx: [0, 1, 2]
+
+names:
+  0: bowler

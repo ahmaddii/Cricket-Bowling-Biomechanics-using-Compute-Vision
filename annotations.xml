@@ -1,0 +1,779 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>4738214</id>
+      <size>100</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2026-11-17 10:43:11.099577+00:00</created>
+      <updated>2026-11-17 11:54:44.189760+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>99</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>4734849</id>
+          <start>0</start>
+          <stop>99</stop>
+          <url>https://app.cvat.ai/api/jobs/4738214/dataset/export/api/jobs/4738214</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>malikahmad6666666@gmail.com</username>
+        <email>malikahmad6666666@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>wrist</name>
+          <color>#4497b3</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>elbow</name>
+          <color>#e757a2</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>shoulder</name>
+          <color>#2bb02b</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Shoulder</name>
+          <color>#15c015</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2026-11-17 12:01:55.149674+00:00</dumped>
+  </meta>
+  <image id="0" name="clip_frame_000013_t0.26s_000000.jpg" width="1280" height="720">
+  </image>
+  <image id="1" name="clip_frame_000051_t1.02s_000001.jpg" width="1280" height="720">
+  </image>
+  <image id="2" name="clip_frame_000054_t1.08s_000002.jpg" width="1280" height="720">
+  </image>
+  <image id="3" name="clip_frame_000061_t1.22s_000003.jpg" width="1280" height="720">
+  </image>
+  <image id="4" name="clip_frame_000065_t1.30s_000004.jpg" width="1280" height="720">
+  </image>
+  <image id="5" name="clip_frame_000088_t1.76s_000005.jpg" width="1280" height="720">
+  </image>
+  <image id="6" name="clip_frame_000093_t1.86s_000006.jpg" width="1280" height="720">
+  </image>
+  <image id="7" name="clip_frame_000142_t2.84s_000007.jpg" width="1280" height="720">
+  </image>
+  <image id="8" name="clip_frame_000146_t2.92s_000008.jpg" width="1280" height="720">
+    <points label="wrist" source="manual" occluded="0" points="26.72,166.17" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="7.64,224.38" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="clip_frame_000161_t3.22s_000009.jpg" width="1280" height="720">
+    <points label="wrist" source="manual" occluded="0" points="94.20,125.87" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="108.47,175.30" z_order="0">
+    </points>
+    <points label="Shoulder" source="manual" occluded="0" points="61.48,197.58" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="clip_frame_000163_t3.26s_000010.jpg" width="1280" height="720">
+    <points label="Shoulder" source="manual" occluded="0" points="63.56,198.27" z_order="0">
+    </points>
+    <points label="wrist" source="manual" occluded="0" points="97.17,125.69" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="112.31,179.67" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="clip_frame_000178_t3.56s_000011.jpg" width="1280" height="720">
+    <points label="wrist" source="manual" occluded="0" points="104.64,124.83" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="131.09,171.47" z_order="0">
+    </points>
+    <points label="Shoulder" source="manual" occluded="0" points="82.71,203.14" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="clip_frame_000189_t3.78s_000012.jpg" width="1280" height="720">
+    <points label="Shoulder" source="manual" occluded="0" points="99.07,203.84" z_order="0">
+    </points>
+    <points label="wrist" source="manual" occluded="0" points="111.25,124.83" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="141.53,167.99" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="clip_frame_000191_t3.82s_000013.jpg" width="1280" height="720">
+    <points label="Shoulder" source="manual" occluded="0" points="100.46,205.58" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="145.01,168.34" z_order="0">
+    </points>
+    <points label="wrist" source="manual" occluded="0" points="115.43,126.57" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="clip_frame_000198_t3.96s_000014.jpg" width="1280" height="720">
+    <points label="Shoulder" source="manual" occluded="0" points="109.51,209.06" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="149.54,165.90" z_order="0">
+    </points>
+    <points label="wrist" source="manual" occluded="0" points="116.47,127.26" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="clip_frame_000206_t4.12s_000015.jpg" width="1280" height="720">
+    <points label="elbow" source="manual" occluded="0" points="162.42,164.86" z_order="0">
+    </points>
+    <points label="wrist" source="manual" occluded="0" points="123.09,130.40" z_order="0">
+    </points>
+    <points label="Shoulder" source="manual" occluded="0" points="122.04,208.37" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="clip_frame_000209_t4.18s_000016.jpg" width="1280" height="720">
+    <points label="Shoulder" source="manual" occluded="0" points="126.57,206.28" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="164.86,165.55" z_order="0">
+    </points>
+    <points label="wrist" source="manual" occluded="0" points="123.09,131.79" z_order="0">
+    </points>
+  </image>
+  <image id="17" name="clip_frame_000228_t4.56s_000017.jpg" width="1280" height="720">
+    <points label="elbow" source="manual" occluded="0" points="187.48,158.59" z_order="0">
+    </points>
+    <points label="wrist" source="manual" occluded="0" points="140.14,140.49" z_order="0">
+    </points>
+    <points label="Shoulder" source="manual" occluded="0" points="150.93,205.58" z_order="0">
+    </points>
+  </image>
+  <image id="18" name="clip_frame_000255_t5.10s_000018.jpg" width="1280" height="720">
+    <points label="wrist" source="manual" occluded="0" points="172.86,150.58" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="216.02,151.63" z_order="0">
+    </points>
+    <points label="Shoulder" source="manual" occluded="0" points="186.09,204.19" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="clip_frame_000285_t5.70s_000019.jpg" width="1280" height="720">
+    <points label="wrist" source="manual" occluded="0" points="216.02,154.76" z_order="0">
+    </points>
+    <points label="Shoulder" source="manual" occluded="0" points="224.03,202.45" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="251.53,148.84" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="clip_frame_000318_t6.36s_000020.jpg" width="1280" height="720">
+    <points label="Shoulder" source="manual" occluded="0" points="268.58,194.09" z_order="0">
+    </points>
+    <points label="wrist" source="manual" occluded="0" points="263.01,141.53" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="296.43,146.41" z_order="0">
+    </points>
+  </image>
+  <image id="21" name="clip_frame_000326_t6.52s_000021.jpg" width="1280" height="720">
+    <points label="wrist" source="manual" occluded="0" points="275.20,142.23" z_order="0">
+    </points>
+    <points label="Shoulder" source="manual" occluded="0" points="279.03,192.35" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="307.57,146.41" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="clip_frame_000333_t6.66s_000022.jpg" width="1280" height="720">
+    <points label="wrist" source="manual" occluded="0" points="285.64,137.01" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="320.10,147.10" z_order="0">
+    </points>
+    <points label="Shoulder" source="manual" occluded="0" points="287.38,193.75" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="clip_frame_000334_t6.68s_000023.jpg" width="1280" height="720">
+    <points label="elbow" source="manual" occluded="0" points="321.84,147.10" z_order="0">
+    </points>
+    <points label="Shoulder" source="manual" occluded="0" points="289.47,193.75" z_order="0">
+    </points>
+    <points label="wrist" source="manual" occluded="0" points="287.73,136.66" z_order="0">
+    </points>
+  </image>
+  <image id="24" name="clip_frame_000350_t7.00s_000024.jpg" width="1280" height="720">
+    <points label="wrist" source="manual" occluded="0" points="314.53,133.18" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="348.99,148.15" z_order="0">
+    </points>
+    <points label="Shoulder" source="manual" occluded="0" points="311.05,189.57" z_order="0">
+    </points>
+  </image>
+  <image id="25" name="clip_frame_000393_t7.86s_000025.jpg" width="1280" height="720">
+    <points label="wrist" source="manual" occluded="0" points="392.85,135.62" z_order="0">
+    </points>
+    <points label="Shoulder" source="manual" occluded="0" points="370.22,190.96" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="419.65,176.34" z_order="0">
+    </points>
+  </image>
+  <image id="26" name="clip_frame_000407_t8.14s_000026.jpg" width="1280" height="720">
+    <points label="Shoulder" source="manual" occluded="0" points="388.32,191.66" z_order="0">
+    </points>
+    <points label="wrist" source="manual" occluded="0" points="421.39,140.49" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="445.41,189.92" z_order="0">
+    </points>
+  </image>
+  <image id="27" name="clip_frame_000429_t8.58s_000027.jpg" width="1280" height="720">
+    <points label="elbow" source="manual" occluded="0" points="474.30,214.98" z_order="0">
+    </points>
+    <points label="Shoulder" source="manual" occluded="0" points="422.09,197.92" z_order="0">
+    </points>
+    <points label="wrist" source="manual" occluded="0" points="472.56,158.24" z_order="0">
+    </points>
+  </image>
+  <image id="28" name="clip_frame_000440_t8.80s_000028.jpg" width="1280" height="720">
+    <points label="wrist" source="manual" occluded="0" points="498.67,171.47" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="486.48,226.47" z_order="0">
+    </points>
+    <points label="Shoulder" source="manual" occluded="0" points="436.36,200.01" z_order="0">
+    </points>
+  </image>
+  <image id="29" name="clip_frame_000447_t8.94s_000029.jpg" width="1280" height="720">
+    <points label="Shoulder" source="manual" occluded="0" points="444.71,203.84" z_order="0">
+    </points>
+    <points label="wrist" source="manual" occluded="0" points="514.68,181.56" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="491.71,233.43" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="clip_frame_000451_t9.02s_000030.jpg" width="1280" height="720">
+    <points label="Shoulder" source="manual" occluded="0" points="451.67,206.62" z_order="0">
+    </points>
+    <points label="wrist" source="manual" occluded="0" points="524.08,185.04" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="494.84,236.91" z_order="0">
+    </points>
+  </image>
+  <image id="31" name="clip_frame_000457_t9.14s_000031.jpg" width="1280" height="720">
+    <points label="elbow" source="manual" occluded="0" points="499.71,242.13" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="537.30,196.88" z_order="0">
+    </points>
+    <points label="Shoulder" source="manual" occluded="0" points="457.24,206.28" z_order="0">
+    </points>
+  </image>
+  <image id="32" name="clip_frame_000466_t9.32s_000032.jpg" width="1280" height="720">
+    <points label="wrist" source="manual" occluded="0" points="549.83,211.50" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="508.06,248.05" z_order="0">
+    </points>
+    <points label="Shoulder" source="manual" occluded="0" points="471.52,206.62" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="clip_frame_000476_t9.52s_000033.jpg" width="1280" height="720">
+    <points label="wrist" source="manual" occluded="0" points="570.72,231.34" z_order="0">
+    </points>
+    <points label="Shoulder" source="manual" occluded="0" points="481.96,211.15" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="517.11,255.71" z_order="0">
+    </points>
+  </image>
+  <image id="34" name="clip_frame_000501_t10.02s_000034.jpg" width="1280" height="720">
+    <points label="Shoulder" source="manual" occluded="0" points="515.03,213.59" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="541.48,269.98" z_order="0">
+    </points>
+    <points label="wrist" source="manual" occluded="0" points="588.82,284.25" z_order="0">
+    </points>
+  </image>
+  <image id="35" name="clip_frame_000541_t10.82s_000035.jpg" width="1280" height="720">
+    <points label="elbow" source="manual" occluded="0" points="562.02,290.51" z_order="0">
+    </points>
+    <points label="wrist" source="manual" occluded="0" points="570.37,337.16" z_order="0">
+    </points>
+    <points label="Shoulder" source="manual" occluded="0" points="559.93,225.42" z_order="0">
+    </points>
+  </image>
+  <image id="36" name="clip_frame_000546_t10.92s_000036.jpg" width="1280" height="720">
+    <points label="wrist" source="manual" occluded="0" points="562.71,339.94" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="559.58,288.77" z_order="0">
+    </points>
+    <points label="Shoulder" source="manual" occluded="0" points="566.19,225.42" z_order="0">
+    </points>
+  </image>
+  <image id="37" name="clip_frame_000552_t11.04s_000037.jpg" width="1280" height="720">
+    <points label="wrist" source="manual" occluded="0" points="556.10,339.94" z_order="0">
+    </points>
+    <points label="Shoulder" source="manual" occluded="0" points="570.02,229.95" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="558.54,290.86" z_order="0">
+    </points>
+  </image>
+  <image id="38" name="clip_frame_000563_t11.26s_000038.jpg" width="1280" height="720">
+    <points label="elbow" source="manual" occluded="0" points="560.28,285.99" z_order="0">
+    </points>
+    <points label="wrist" source="manual" occluded="0" points="544.26,336.46" z_order="0">
+    </points>
+    <points label="Shoulder" source="manual" occluded="0" points="580.12,230.64" z_order="0">
+    </points>
+  </image>
+  <image id="39" name="clip_frame_000569_t11.38s_000039.jpg" width="1280" height="720">
+    <points label="wrist" source="manual" occluded="0" points="537.30,330.89" z_order="0">
+    </points>
+    <points label="Shoulder" source="manual" occluded="0" points="584.64,232.04" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="560.62,283.20" z_order="0">
+    </points>
+  </image>
+  <image id="40" name="clip_frame_000592_t11.84s_000040.jpg" width="1280" height="720">
+    <points label="wrist" source="manual" occluded="0" points="525.12,307.22" z_order="0">
+    </points>
+    <points label="Shoulder" source="manual" occluded="0" points="590.91,240.04" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="571.07,267.54" z_order="0">
+    </points>
+  </image>
+  <image id="41" name="clip_frame_000600_t12.00s_000041.jpg" width="1280" height="720">
+    <points label="wrist" source="manual" occluded="0" points="522.34,296.43" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="568.28,265.10" z_order="0">
+    </points>
+  </image>
+  <image id="42" name="clip_frame_000689_t13.78s_000042.jpg" width="1280" height="720">
+    <points label="elbow" source="manual" occluded="0" points="719.00,193.40" z_order="0">
+    </points>
+    <points label="Shoulder" source="manual" occluded="0" points="731.88,229.60" z_order="0">
+    </points>
+    <points label="wrist" source="manual" occluded="0" points="691.50,142.93" z_order="0">
+    </points>
+  </image>
+  <image id="43" name="clip_frame_000696_t13.92s_000043.jpg" width="1280" height="720">
+    <points label="Shoulder" source="manual" occluded="0" points="747.20,235.17" z_order="0">
+    </points>
+    <points label="wrist" source="manual" occluded="0" points="724.22,136.66" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="740.93,195.83" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="clip_frame_000704_t14.08s_000044.jpg" width="1280" height="720">
+    <points label="elbow" source="manual" occluded="0" points="763.56,200.36" z_order="0">
+    </points>
+    <points label="wrist" source="manual" occluded="0" points="764.60,139.45" z_order="0">
+    </points>
+    <points label="Shoulder" source="manual" occluded="0" points="757.29,229.25" z_order="0">
+    </points>
+  </image>
+  <image id="45" name="clip_frame_000727_t14.54s_000045.jpg" width="1280" height="720">
+    <points label="wrist" source="manual" occluded="0" points="890.81,369.96" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="853.17,324.06" z_order="0">
+    </points>
+    <points label="Shoulder" source="manual" occluded="0" points="819.65,273.52" z_order="0">
+    </points>
+  </image>
+  <image id="46" name="clip_frame_000735_t14.70s_000046.jpg" width="1280" height="720">
+    <points label="Shoulder" source="manual" occluded="0" points="824.80,277.13" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="847.49,337.47" z_order="0">
+    </points>
+    <points label="wrist" source="manual" occluded="0" points="876.89,377.69" z_order="0">
+    </points>
+  </image>
+  <image id="47" name="clip_frame_000740_t14.80s_000047.jpg" width="1280" height="720">
+    <points label="wrist" source="manual" occluded="0" points="872.76,392.65" z_order="0">
+    </points>
+    <points label="Shoulder" source="manual" occluded="0" points="830.99,281.77" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="844.92,342.11" z_order="0">
+    </points>
+  </image>
+  <image id="48" name="clip_frame_000747_t14.94s_000048.jpg" width="1280" height="720">
+    <points label="elbow" source="manual" occluded="0" points="843.88,354.48" z_order="0">
+    </points>
+    <points label="wrist" source="manual" occluded="0" points="863.48,405.54" z_order="0">
+    </points>
+    <points label="Shoulder" source="manual" occluded="0" points="836.15,281.26" z_order="0">
+    </points>
+  </image>
+  <image id="49" name="clip_frame_000758_t15.16s_000049.jpg" width="1280" height="720">
+    <points label="Shoulder" source="manual" occluded="0" points="840.79,287.44" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="837.18,358.61" z_order="0">
+    </points>
+    <points label="wrist" source="manual" occluded="0" points="843.88,414.82" z_order="0">
+    </points>
+  </image>
+  <image id="50" name="clip_frame_000775_t15.50s_000050.jpg" width="1280" height="720">
+    <points label="wrist" source="manual" occluded="0" points="819.13,415.34" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="826.87,360.16" z_order="0">
+    </points>
+    <points label="Shoulder" source="manual" occluded="0" points="853.17,297.24" z_order="0">
+    </points>
+  </image>
+  <image id="51" name="clip_frame_000777_t15.54s_000051.jpg" width="1280" height="720">
+    <points label="Shoulder" source="manual" occluded="0" points="852.65,297.76" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="826.35,362.22" z_order="0">
+    </points>
+    <points label="wrist" source="manual" occluded="0" points="816.04,413.27" z_order="0">
+    </points>
+  </image>
+  <image id="52" name="clip_frame_000778_t15.56s_000052.jpg" width="1280" height="720">
+    <points label="Shoulder" source="manual" occluded="0" points="853.68,302.92" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="822.74,361.70" z_order="0">
+    </points>
+    <points label="wrist" source="manual" occluded="0" points="811.91,412.24" z_order="0">
+    </points>
+  </image>
+  <image id="53" name="clip_frame_000859_t17.18s_000053.jpg" width="1280" height="720">
+    <points label="Shoulder" source="manual" occluded="0" points="903.71,323.03" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="850.59,338.50" z_order="0">
+    </points>
+  </image>
+  <image id="54" name="clip_frame_000864_t17.28s_000054.jpg" width="1280" height="720">
+    <points label="elbow" source="manual" occluded="0" points="855.23,339.01" z_order="0">
+    </points>
+    <points label="Shoulder" source="manual" occluded="0" points="908.86,325.61" z_order="0">
+    </points>
+  </image>
+  <image id="55" name="clip_frame_000865_t17.30s_000055.jpg" width="1280" height="720">
+    <points label="Shoulder" source="manual" occluded="0" points="905.25,324.06" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="856.78,336.95" z_order="0">
+    </points>
+  </image>
+  <image id="56" name="clip_frame_000919_t18.38s_000056.jpg" width="1280" height="720">
+    <points label="elbow" source="manual" occluded="0" points="904.22,353.97" z_order="0">
+    </points>
+    <points label="Shoulder" source="manual" occluded="0" points="948.57,335.40" z_order="0">
+    </points>
+  </image>
+  <image id="57" name="clip_frame_000928_t18.56s_000057.jpg" width="1280" height="720">
+    <points label="Shoulder" source="manual" occluded="0" points="956.31,342.11" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="913.50,357.58" z_order="0">
+    </points>
+  </image>
+  <image id="58" name="clip_frame_000940_t18.80s_000058.jpg" width="1280" height="720">
+    <points label="elbow" source="manual" occluded="0" points="917.63,362.74" z_order="0">
+    </points>
+    <points label="Shoulder" source="manual" occluded="0" points="964.04,341.59" z_order="0">
+    </points>
+  </image>
+  <image id="59" name="clip_frame_000946_t18.92s_000059.jpg" width="1280" height="720">
+    <points label="Shoulder" source="manual" occluded="0" points="964.56,339.01" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="922.27,363.25" z_order="0">
+    </points>
+  </image>
+  <image id="60" name="clip_frame_001034_t20.68s_000060.jpg" width="1280" height="720">
+    <points label="elbow" source="manual" occluded="0" points="973.32,363.77" z_order="0">
+    </points>
+    <points label="Shoulder" source="manual" occluded="0" points="1019.74,323.03" z_order="0">
+    </points>
+    <points label="wrist" source="manual" occluded="0" points="982.09,410.70" z_order="0">
+    </points>
+  </image>
+  <image id="61" name="clip_frame_001093_t21.86s_000061.jpg" width="1280" height="720">
+    <points label="wrist" source="manual" occluded="0" points="1007.88,398.32" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="1005.30,346.75" z_order="0">
+    </points>
+    <points label="Shoulder" source="manual" occluded="0" points="1057.90,309.10" z_order="0">
+    </points>
+  </image>
+  <image id="62" name="clip_frame_001098_t21.96s_000062.jpg" width="1280" height="720">
+    <points label="Shoulder" source="manual" occluded="0" points="1062.03,305.49" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="1010.46,343.14" z_order="0">
+    </points>
+    <points label="wrist" source="manual" occluded="0" points="1007.88,396.77" z_order="0">
+    </points>
+  </image>
+  <image id="63" name="clip_frame_001116_t22.32s_000063.jpg" width="1280" height="720">
+    <points label="Shoulder" source="manual" occluded="0" points="1071.82,302.92" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="1018.19,341.08" z_order="0">
+    </points>
+    <points label="wrist" source="manual" occluded="0" points="1015.61,393.16" z_order="0">
+    </points>
+  </image>
+  <image id="64" name="clip_frame_001130_t22.60s_000064.jpg" width="1280" height="720">
+    <points label="wrist" source="manual" occluded="0" points="1017.16,390.07" z_order="0">
+    </points>
+    <points label="Shoulder" source="manual" occluded="0" points="1077.50,298.79" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="1025.41,338.50" z_order="0">
+    </points>
+  </image>
+  <image id="65" name="clip_frame_001149_t22.98s_000065.jpg" width="1280" height="720">
+    <points label="elbow" source="manual" occluded="0" points="1026.96,338.50" z_order="0">
+    </points>
+    <points label="Shoulder" source="manual" occluded="0" points="1079.56,301.37" z_order="0">
+    </points>
+    <points label="wrist" source="manual" occluded="0" points="1018.71,390.07" z_order="0">
+    </points>
+  </image>
+  <image id="66" name="clip_frame_001182_t23.64s_000066.jpg" width="1280" height="720">
+    <points label="wrist" source="manual" occluded="0" points="1022.83,391.10" z_order="0">
+    </points>
+    <points label="Shoulder" source="manual" occluded="0" points="1083.68,299.30" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="1030.57,336.44" z_order="0">
+    </points>
+  </image>
+  <image id="67" name="clip_frame_001206_t24.12s_000067.jpg" width="1280" height="720">
+    <points label="elbow" source="manual" occluded="0" points="1032.63,333.86" z_order="0">
+    </points>
+    <points label="wrist" source="manual" occluded="0" points="1020.77,389.04" z_order="0">
+    </points>
+    <points label="Shoulder" source="manual" occluded="0" points="1083.17,299.82" z_order="0">
+    </points>
+  </image>
+  <image id="68" name="clip_frame_001209_t24.18s_000068.jpg" width="1280" height="720">
+    <points label="Shoulder" source="manual" occluded="0" points="1083.17,300.34" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="1033.15,334.37" z_order="0">
+    </points>
+    <points label="wrist" source="manual" occluded="0" points="1021.80,389.04" z_order="0">
+    </points>
+  </image>
+  <image id="69" name="clip_frame_001232_t24.64s_000069.jpg" width="1280" height="720">
+    <points label="wrist" source="manual" occluded="0" points="1021.29,388.00" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="1035.21,335.40" z_order="0">
+    </points>
+    <points label="Shoulder" source="manual" occluded="0" points="1086.26,295.18" z_order="0">
+    </points>
+  </image>
+  <image id="70" name="clip_frame_001236_t24.72s_000070.jpg" width="1280" height="720">
+    <points label="Shoulder" source="manual" occluded="0" points="1083.68,297.76" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="1034.18,334.37" z_order="0">
+    </points>
+    <points label="wrist" source="manual" occluded="0" points="1023.35,390.58" z_order="0">
+    </points>
+  </image>
+  <image id="71" name="clip_frame_001247_t24.94s_000071.jpg" width="1280" height="720">
+    <points label="wrist" source="manual" occluded="0" points="1024.38,388.00" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="1035.72,334.37" z_order="0">
+    </points>
+    <points label="Shoulder" source="manual" occluded="0" points="1084.72,298.27" z_order="0">
+    </points>
+  </image>
+  <image id="72" name="clip_frame_001266_t25.32s_000072.jpg" width="1280" height="720">
+    <points label="Shoulder" source="manual" occluded="0" points="1087.81,299.30" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="1035.72,333.86" z_order="0">
+    </points>
+    <points label="wrist" source="manual" occluded="0" points="1024.89,389.04" z_order="0">
+    </points>
+  </image>
+  <image id="73" name="clip_frame_001287_t25.74s_000073.jpg" width="1280" height="720">
+    <points label="wrist" source="manual" occluded="0" points="1024.38,388.00" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="1036.76,333.86" z_order="0">
+    </points>
+    <points label="Shoulder" source="manual" occluded="0" points="1087.81,301.88" z_order="0">
+    </points>
+  </image>
+  <image id="74" name="clip_frame_001300_t26.00s_000074.jpg" width="1280" height="720">
+    <points label="Shoulder" source="manual" occluded="0" points="1088.33,300.85" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="1041.91,332.83" z_order="0">
+    </points>
+    <points label="wrist" source="manual" occluded="0" points="1025.93,386.46" z_order="0">
+    </points>
+  </image>
+  <image id="75" name="clip_frame_001301_t26.02s_000075.jpg" width="1280" height="720">
+    <points label="wrist" source="manual" occluded="0" points="1027.99,388.52" z_order="0">
+    </points>
+    <points label="Shoulder" source="manual" occluded="0" points="1090.39,299.30" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="1041.40,331.28" z_order="0">
+    </points>
+  </image>
+  <image id="76" name="clip_frame_001309_t26.18s_000076.jpg" width="1280" height="720">
+    <points label="elbow" source="manual" occluded="0" points="1041.91,334.37" z_order="0">
+    </points>
+    <points label="Shoulder" source="manual" occluded="0" points="1090.90,297.76" z_order="0">
+    </points>
+    <points label="wrist" source="manual" occluded="0" points="1027.99,388.00" z_order="0">
+    </points>
+  </image>
+  <image id="77" name="clip_frame_001310_t26.20s_000077.jpg" width="1280" height="720">
+    <points label="wrist" source="manual" occluded="0" points="1025.93,388.52" z_order="0">
+    </points>
+    <points label="Shoulder" source="manual" occluded="0" points="1091.42,298.27" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="1041.91,333.86" z_order="0">
+    </points>
+  </image>
+  <image id="78" name="clip_frame_001327_t26.54s_000078.jpg" width="1280" height="720">
+    <points label="elbow" source="manual" occluded="0" points="1042.94,333.34" z_order="0">
+    </points>
+    <points label="Shoulder" source="manual" occluded="0" points="1093.48,298.79" z_order="0">
+    </points>
+    <points label="wrist" source="manual" occluded="0" points="1027.47,387.49" z_order="0">
+    </points>
+  </image>
+  <image id="79" name="clip_frame_001330_t26.60s_000079.jpg" width="1280" height="720">
+    <points label="wrist" source="manual" occluded="0" points="1029.54,386.46" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="1042.43,332.31" z_order="0">
+    </points>
+    <points label="Shoulder" source="manual" occluded="0" points="1095.55,298.27" z_order="0">
+    </points>
+  </image>
+  <image id="80" name="clip_frame_001354_t27.08s_000080.jpg" width="1280" height="720">
+    <points label="Shoulder" source="manual" occluded="0" points="1030.05,388.00" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="1044.49,333.86" z_order="0">
+    </points>
+    <points label="Shoulder" source="manual" occluded="0" points="1092.97,298.27" z_order="0">
+    </points>
+  </image>
+  <image id="81" name="clip_frame_001372_t27.44s_000081.jpg" width="1280" height="720">
+    <points label="Shoulder" source="manual" occluded="0" points="1097.61,295.18" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="1047.07,331.79" z_order="0">
+    </points>
+    <points label="wrist" source="manual" occluded="0" points="1030.57,388.52" z_order="0">
+    </points>
+  </image>
+  <image id="82" name="clip_frame_001385_t27.70s_000082.jpg" width="1280" height="720">
+    <points label="wrist" source="manual" occluded="0" points="1031.60,387.49" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="1047.58,333.34" z_order="0">
+    </points>
+    <points label="Shoulder" source="manual" occluded="0" points="1099.16,298.79" z_order="0">
+    </points>
+  </image>
+  <image id="83" name="clip_frame_001399_t27.98s_000083.jpg" width="1280" height="720">
+    <points label="Shoulder" source="manual" occluded="0" points="1099.16,305.49" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="1048.62,333.34" z_order="0">
+    </points>
+    <points label="wrist" source="manual" occluded="0" points="1032.63,387.49" z_order="0">
+    </points>
+  </image>
+  <image id="84" name="clip_frame_001429_t28.58s_000084.jpg" width="1280" height="720">
+    <points label="wrist" source="manual" occluded="0" points="1033.15,386.46" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="1052.23,332.31" z_order="0">
+    </points>
+    <points label="Shoulder" source="manual" occluded="0" points="1101.73,300.85" z_order="0">
+    </points>
+  </image>
+  <image id="85" name="clip_frame_001436_t28.72s_000085.jpg" width="1280" height="720">
+    <points label="Shoulder" source="manual" occluded="0" points="1105.34,302.92" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="1054.29,334.89" z_order="0">
+    </points>
+    <points label="wrist" source="manual" occluded="0" points="1033.66,385.94" z_order="0">
+    </points>
+  </image>
+  <image id="86" name="clip_frame_001437_t28.74s_000086.jpg" width="1280" height="720">
+    <points label="Shoulder" source="manual" occluded="0" points="1104.31,301.37" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="1053.26,334.89" z_order="0">
+    </points>
+    <points label="wrist" source="manual" occluded="0" points="1034.18,386.97" z_order="0">
+    </points>
+  </image>
+  <image id="87" name="clip_frame_001442_t28.84s_000087.jpg" width="1280" height="720">
+    <points label="wrist" source="manual" occluded="0" points="1033.15,388.52" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="1052.74,335.40" z_order="0">
+    </points>
+    <points label="Shoulder" source="manual" occluded="0" points="1107.92,304.46" z_order="0">
+    </points>
+  </image>
+  <image id="88" name="clip_frame_001466_t29.32s_000088.jpg" width="1280" height="720">
+    <points label="Shoulder" source="manual" occluded="0" points="1103.80,302.40" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="1052.74,334.37" z_order="0">
+    </points>
+    <points label="wrist" source="manual" occluded="0" points="1035.21,387.49" z_order="0">
+    </points>
+  </image>
+  <image id="89" name="clip_frame_001493_t29.86s_000089.jpg" width="1280" height="720">
+    <points label="wrist" source="manual" occluded="0" points="1034.69,386.97" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="1055.32,336.44" z_order="0">
+    </points>
+    <points label="Shoulder" source="manual" occluded="0" points="1105.86,306.01" z_order="0">
+    </points>
+  </image>
+  <image id="90" name="clip_frame_001494_t29.88s_000090.jpg" width="1280" height="720">
+    <points label="Shoulder" source="manual" occluded="0" points="1103.28,302.92" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="1052.23,335.40" z_order="0">
+    </points>
+    <points label="wrist" source="manual" occluded="0" points="1035.21,388.52" z_order="0">
+    </points>
+  </image>
+  <image id="91" name="clip_frame_001508_t30.16s_000091.jpg" width="1280" height="720">
+    <points label="wrist" source="manual" occluded="0" points="1033.66,389.04" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="1052.74,335.40" z_order="0">
+    </points>
+    <points label="Shoulder" source="manual" occluded="0" points="1102.25,303.43" z_order="0">
+    </points>
+  </image>
+  <image id="92" name="clip_frame_001516_t30.32s_000092.jpg" width="1280" height="720">
+    <points label="Shoulder" source="manual" occluded="0" points="1103.80,303.43" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="1055.32,335.92" z_order="0">
+    </points>
+    <points label="wrist" source="manual" occluded="0" points="1032.63,389.04" z_order="0">
+    </points>
+  </image>
+  <image id="93" name="clip_frame_001518_t30.36s_000093.jpg" width="1280" height="720">
+    <points label="wrist" source="manual" occluded="0" points="1032.11,388.00" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="1052.74,334.37" z_order="0">
+    </points>
+    <points label="Shoulder" source="manual" occluded="0" points="1103.80,307.04" z_order="0">
+    </points>
+  </image>
+  <image id="94" name="clip_frame_001554_t31.08s_000094.jpg" width="1280" height="720">
+    <points label="Shoulder" source="manual" occluded="0" points="1101.73,307.04" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="1055.32,336.95" z_order="0">
+    </points>
+    <points label="wrist" source="manual" occluded="0" points="1030.05,388.52" z_order="0">
+    </points>
+  </image>
+  <image id="95" name="clip_frame_001563_t31.26s_000095.jpg" width="1280" height="720">
+    <points label="wrist" source="manual" occluded="0" points="1029.54,388.00" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="1053.26,337.98" z_order="0">
+    </points>
+    <points label="Shoulder" source="manual" occluded="0" points="1103.28,303.95" z_order="0">
+    </points>
+  </image>
+  <image id="96" name="clip_frame_001583_t31.66s_000096.jpg" width="1280" height="720">
+    <points label="Shoulder" source="manual" occluded="0" points="1103.28,303.43" z_order="0">
+    </points>
+    <points label="elbow" source="manual" occluded="0" points="1051.71,338.50" z_order="0">
+    </points>
+    <points label="wrist" source="manual" occluded="0" points="1027.99,389.55" z_order="0">
+    </points>
+  </image>
+  <image id="97" name="clip_frame_001650_t33.00s_000097.jpg" width="1280" height="720">
+  </image>
+  <image id="98" name="clip_frame_001652_t33.04s_000098.jpg" width="1280" height="720">
+  </image>
+  <image id="99" name="clip_frame_001657_t33.14s_000099.jpg" width="1280" height="720">
+  </image>
+</annotations>
